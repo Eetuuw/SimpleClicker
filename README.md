@@ -1,7 +1,7 @@
 # SimpleClicker
 - Customizable time
 - Left or right click
-- single or double clicking
+- Single or double clicking
 
 # Usage
 - Download SimpleClicker.jar
