@@ -1,5 +1,7 @@
 # SimpleClicker
-An autoclicker with various options.
+- Customizable time
+- Left or right click
+- single or double clicking
 
 # Usage
 - Download SimpleClicker.jar
