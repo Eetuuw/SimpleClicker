@@ -2,8 +2,8 @@
 An autoclicker with various options.
 
 # Usage
-Download SimpleClicker.jar
-Run it
+- Download SimpleClicker.jar
+- Run it
 
 # Notes
 - You need to have Java installed on your computer
